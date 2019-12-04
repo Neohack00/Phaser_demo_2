@@ -1,0 +1,25 @@
+{
+  "name": "demo_game_2",
+  "version": "1.0.0",
+  "description": "Test project for phaser Devolopment",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neohack00/Phaser_demo_2.git"
+  },
+  "author": "Neo H.B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Neohack00/Phaser_demo_2/issues"
+  },
+  "homepage": "https://github.com/Neohack00/Phaser_demo_2#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^13.3.0",
+    "nodemon": "^2.0.1"
+  }
+}
